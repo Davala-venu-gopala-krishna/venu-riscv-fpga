@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Mon Sep 01 12:30:35 2025
+[*]
+[dumpfile] "C:\Users\venug\OneDrive\Desktop\riscv\Single_Cycle.vcd"
+[dumpfile_mtime] "Mon Sep 01 12:27:01 2025"
+[dumpfile_size] 5406
+[savefile] "C:\Users\venug\OneDrive\Desktop\riscv\aluoperations.gtkw"
+[timestart] 0
+[size] 1707 996
+[pos] -1 -1
+*-6.657120 2 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Single_Cycle_Top_Tb.
+[sst_width] 197
+[signals_width] 263
+[sst_expanded] 1
+[sst_vpaned_height] 282
+@28
+Single_Cycle_Top_Tb.Single_Cycle_Top.clk
+Single_Cycle_Top_Tb.Single_Cycle_Top.ALUControl_Top[2:0]
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top.RD1_Top[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.RD2_Top[31:0]
+@23
+Single_Cycle_Top_Tb.Single_Cycle_Top.ALUResult[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
